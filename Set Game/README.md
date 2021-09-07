@@ -1,5 +1,3 @@
-# cs5031p2code
-
 
 ## Instructions to run the game
 * Run the server on StartSetGameServer and wait for the server to start
